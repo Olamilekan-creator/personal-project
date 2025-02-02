@@ -69,19 +69,19 @@ margin: 0 auto;
 
 h1 {
   font-size: 110px;
-  color: #f3f4d2;
+  color: #ded492;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7)
 }
 
 p {
   font-size: 45px;
   line-height: 1.5;
-  color: #ded492;
+  color: #f3f4d2;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7)
 }
 
 button {
-background-color: #f3f4d2;
+background-color: #cccbca;
 color: saddlebrown;
 padding: 10px 30px;
 font-size: 25px;
@@ -98,5 +98,5 @@ margin: 100px;
 }
 
 .high-contrast-text {
-  color: #ded492;
+  color: #f3f4d2;
 }
